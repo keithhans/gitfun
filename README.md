@@ -1,3 +1,1 @@
-# gitfun
-play ground with git
-Createing a new branch is quick. 
+not this latest one. 
